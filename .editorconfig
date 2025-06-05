@@ -1,5 +1,5 @@
-root = true
+root = true # Indica que este é o arquivo raiz do EditorConfig
 
-[*]
-indent_style = space
-indent_size = 2
+[*] # Aplica as regras a todos os arquivos
+indent_style = space # Usa espaços para indentação
+indent_size = 2 # Usa 2 espaços para cada nível de indentação
